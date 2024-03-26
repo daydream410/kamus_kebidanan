@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "858472032082",
+    "project_id": "kamus-kebidanan",
+    "storage_bucket": "kamus-kebidanan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858472032082:android:e326ea02041541929c7c8b",
+        "android_client_info": {
+          "package_name": "com.example.kamus_kebidanan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX8uIYySr5pn0MNcIAXGI-fZmY6eOs7QM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
